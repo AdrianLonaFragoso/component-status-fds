@@ -1,0 +1,17 @@
+{
+  "title": "Updated Title",
+  "objects": [
+    {
+      "id": 1,
+      "name": "First Object"
+    },
+    {
+      "id": 2,
+      "name": "Third econd Object"
+    },
+    {
+      "id": 3,
+      "name": "✅"
+    }
+  ]
+}
